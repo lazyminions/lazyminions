@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Fun factCode-slinging Frontend dev from India on a mission to craft beautiful digital experiences. Let's create something awesome together!
+Code-slinging Frontend dev from India on a mission to craft beautiful digital experiences. Let's create something awesome together!
 
 
 ## 🌐 Socials:
